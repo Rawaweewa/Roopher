@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Roopher
 - 👀 I’m interested in improving my skills in web-development.
-- 🌱 I’m currently learning HTML & CSS-
+- 🌱 I’m currently learning HTML & CSS
 - 💞️ I’m looking to collaborate on my own :P
 
 <!---
